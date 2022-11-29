@@ -1,6 +1,59 @@
 {
-    "books": [
-        
-       
-    ]
+  "books": [
+    {
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSI3IdfpiJwkOXQD16xflGpPYseKrAkYThvFM7Nwi-lFuyh8wMOGteK2FCHd-BSDuD18&usqp=CAU",
+      "book_name": "The last heroes",
+      "author": "P. Sainath",
+      "genre": "History",
+      "edition": "2008",
+      "publisher": "delhi",
+      "cost": "1500",
+      "borrowed": false,
+      "id": 1
+    },
+    {
+      "image_url": "https://www.bookgeeks.in/wp-content/uploads/2017/04/you-are-the-best-wife-by-ajay-k-pandey.jpg",
+      "book_name": "The best wife",
+      "author": "Ajay pandey",
+      "genre": "Tech",
+      "edition": "2000",
+      "publisher": "ahmedabad",
+      "cost": "2000",
+      "borrowed": false,
+      "id": 2
+    },
+    {
+      "image_url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1549389961-51BUuLUf0zL.jpg?crop=1xw:0.930xh;center,top&resize=480:*",
+      "book_name": "The note book",
+      "author": "helenn Keller",
+      "genre": "Science",
+      "edition": "2019",
+      "publisher": "delhi",
+      "cost": "900",
+      "borrowed": false,
+      "id": 3
+    },
+    {
+      "image_url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1611700059-9781250316776.jpg?crop=1xw:0.9849906191369606xh;center,top&resize=480:*",
+      "book_name": "Red white royal blue",
+      "author": "Kasey",
+      "genre": "Business",
+      "edition": "2002",
+      "publisher": "Mumbai",
+      "cost": "800",
+      "borrowed": false,
+      "id": 4
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/51PyigCE5vL.jpg",
+      "book_name": "in search of a love story",
+      "author": "Racheal",
+      "genre": "Fiction",
+      "edition": "2005",
+      "publisher": "chennai",
+      "cost": "1200",
+      "borrowed": false,
+      "id": 5
+    }
+  ]
 }
