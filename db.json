@@ -1,23 +1,4 @@
 {
-  "cars": [
-    {
-      "brand": "tata",
-      "type": "manual",
-      "year": "2019",
-      "kms": "22243",
-      "Description": "this is car 1",
-      "Price": "20000",
-      "id": 1
-    },
-    {
-      "brand": "maruti",
-      "type": "manual",
-      "year": "2022",
-      "kms": "18992",
-      "Description": "this is car 2",
-      "Price": "10000",
-      "id": 2
-    }
-  ],
+  "cars": [],
   "wishlisted_cars": []
 }
